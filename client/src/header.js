@@ -13,7 +13,7 @@ const Header = () => {
                     <label for="menu-button" className="menu-logo"><img src={menulogo}/></label>
                     <nav className="navegador">
                     <ul className="show">
-                <li><Link to="/contador">Contador de clicks</Link></li>
+                <li><Link to="/contador">Contador de dolares</Link></li>
                 <li><Link to="/login">Manejo de Cuenta</Link></li>
             </ul>
             </nav>

@@ -8,7 +8,7 @@ function Contador() {
   return (
     <div>
       <h1 className="centrado">
-        {count}
+        ${count}
       </h1>
       <div className="centrado2 centrado">
         <button classname="" onClick={() => setCount(count - 1)}>-1</button>

@@ -55,7 +55,7 @@
     color: white;
   }
   
-  @media only screen and (max-width:1280px) {
+  /*@media only screen and (max-width:1280px) {
     .logo img {
       padding-left: 2em;
       height: 4rem;
@@ -75,7 +75,6 @@
     }
     .navegador {
       width: 100%;
-      background: #393939;
       float: none;
       transition: all 1s;
     }
@@ -103,4 +102,4 @@
   
   
   }
-    
+    */
